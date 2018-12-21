@@ -2,7 +2,7 @@
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 
 ```
-git clone https://github.com/KeiferJu/v2ray
+git clone https://github.com/KeiferJu/v2ray_sh.git
 
 cd v2ray
 
